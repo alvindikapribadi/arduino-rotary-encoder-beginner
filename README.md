@@ -92,6 +92,22 @@ You can expand this project by adding:
 
 ---
 
+## 🎥 Video Tutorial
+
+Watch the full step-by-step tutorial on YouTube:
+
+👉 https://youtu.be/QSZGTJiMycU
+
+In this video, you will see:
+- Complete wiring demonstration  
+- Code explanation  
+- Live rotation testing  
+- Clockwise and counterclockwise direction detection  
+
+If this project helps you, consider subscribing for more beginner-friendly Arduino tutorials 🚀
+
+---
+
 ## 📄 License
 
 This project is open-source and free to use for educational purposes.
