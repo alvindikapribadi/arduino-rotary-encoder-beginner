@@ -44,7 +44,7 @@ This example is intentionally written without any external library to help begin
 
 ![Wiring Diagram](diagram.png)
 
-> Make sure your wiring matches the table above before uploading the code.
+> Make sure your wiring matches the diagram above before uploading the code.
 
 ---
 
