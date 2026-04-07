@@ -98,8 +98,6 @@ Watch the full step-by-step tutorial on YouTube:
 
 [![Watch the video](https://img.youtube.com/vi/QSZGTJiMycU/0.jpg)](https://youtu.be/QSZGTJiMycU)
 
-👉 https://youtu.be/QSZGTJiMycU
-
 In this video, you will see:
 - Complete wiring demonstration  
 - Code explanation  
