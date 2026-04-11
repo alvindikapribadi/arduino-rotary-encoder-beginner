@@ -80,18 +80,6 @@ This project helps you understand:
 
 ---
 
-## 🔄 Possible Improvements
-
-You can expand this project by adding:
-
-- LED brightness control (PWM)
-- Servo motor control
-- LCD display counter
-- Menu navigation system
-- Interrupt-based encoder reading (advanced)
-
----
-
 ## 🎥 Video Tutorial
 
 Watch the full step-by-step tutorial on YouTube:
